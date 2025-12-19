@@ -1,6 +1,4 @@
 
-
-<!--
 ## Hi, I'm Manar 👋
 
 🎓 First-year IT student  
