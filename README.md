@@ -1,16 +1,43 @@
 ## Hi there 👋
 
 <!--
-**Manar-Othman-Abbas/Manar-Othman-Abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Manar 👋
 
-Here are some ideas to get you started:
+🎓 First-year IT student  
+💻 Interested in Programming & Computer Science  
+🌱 Currently learning C++ & Data Structures  
+🚀 Building my skills step by step  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🛠 Skills
+- Programming Basics
+- C++ (Beginner)
+- Problem Solving
+- Git & GitHub (Learning)
+
+---
+
+### 📚 Currently Studying
+- Data Structures  
+- Logic Circuits  
+- Operating Systems  
+- Databases (DBMS)
+
+---
+
+### 🤝 I'm looking to
+- Improve my coding skills  
+- Work on small projects  
+- Learn from others
+
+---
+
+### 📫 How to reach me
+- GitHub: **Manar-Othman-Abbas**
+
+---
+
+✨ *Fun fact:* I learn better with visuals and simple explanations 😄
+
 -->
