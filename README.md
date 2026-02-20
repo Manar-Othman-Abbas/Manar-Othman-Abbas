@@ -1,7 +1,5 @@
 
-## Hi, I'm Manar 👋
-
-🎓 First-year IT student  
+## Hi, I'm Manar 👋 
 💻 Interested in Programming & Computer Science  
 🌱 Currently learning C++ & Data Structures  
 🚀 Building my skills step by step  
