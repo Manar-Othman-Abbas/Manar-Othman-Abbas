@@ -38,6 +38,8 @@
 
 ### 📫 How to reach me
 - GitHub: **Manar-Othman-Abbas**
+- LinkedIn: [manar-othman](https://www.linkedin.com/in/manar-othman-b9000b344/)
+- Email: manar942006@gmail.com
 
 ---
 
