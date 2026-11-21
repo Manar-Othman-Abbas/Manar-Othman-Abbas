@@ -9,6 +9,7 @@
 ### 🛠 Skills
 - C++ (Beginner)
 - Data Structures & Problem Solving
+- Data Analysis (Learning)
 - Programming Basics
 - Git & GitHub (Learning)
 
