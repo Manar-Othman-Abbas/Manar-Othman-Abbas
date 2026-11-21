@@ -24,6 +24,7 @@
 ---
 
 ### 📂 My Projects
+- [Aviation Supply Chain Analysis](https://github.com/Manar-Othman-Abbas/aviation-supply-chain-analysis) - an end-to-end data analysis project in Power BI: demand, inventory and stockout dashboards for aviation spare parts
 - [C++ Data Structures](https://github.com/Manar-Othman-Abbas/cpp-data-structures) - my implementations of core data structures in C++, with examples
 - [Student Management System](https://github.com/Manar-Othman-Abbas/cpp-student-management) - a console app in C++ to add, search and list students
 
