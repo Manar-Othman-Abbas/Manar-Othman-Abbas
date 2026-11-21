@@ -1,15 +1,15 @@
-
 ## Hi, I'm Manar 👋 
-💻 Interested in Programming & Computer Science  
+💻 Computer Science student, interested in Programming & Problem Solving  
 🌱 Currently learning C++ & Data Structures  
 🚀 Building my skills step by step  
+🎯 Open to internship opportunities
 
 ---
 
 ### 🛠 Skills
-- Programming Basics
 - C++ (Beginner)
-- Problem Solving
+- Data Structures & Problem Solving
+- Programming Basics
 - Git & GitHub (Learning)
 
 ---
@@ -22,10 +22,17 @@
 
 ---
 
+### 📂 My Projects
+- [C++ Data Structures](https://github.com/Manar-Othman-Abbas/cpp-data-structures) - my implementations of core data structures in C++, with examples
+- [Student Management System](https://github.com/Manar-Othman-Abbas/cpp-student-management) - a console app in C++ to add, search and list students
+
+---
+
 ### 🤝 I'm looking to
 - Improve my coding skills  
 - Work on small projects  
 - Learn from others
+- Grow through an internship
 
 ---
 
@@ -35,5 +42,3 @@
 ---
 
 ✨ *Fun fact:* I learn better with visuals and simple explanations 😄
-
--->
